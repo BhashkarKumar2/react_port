@@ -8,7 +8,7 @@ const AboutMe = () => {
           <div className="col cards2 ">
             <img src={me} className="card-img-top" alt="Profile" />
             <div>
-              <a href="#" className="btn btn-primary cvbutton" >Download CV</a>
+              <a href="https://drive.google.com/file/d/1OJnDiJMQH7TOjiu9p02r05C-9CF1En7i/view?usp=drive_link" className="btn btn-primary cvbutton" >Download CV</a>
             </div>
           </div>
           <div className="col-sm-6 text-column">
